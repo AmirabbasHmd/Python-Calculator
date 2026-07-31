@@ -21,3 +21,20 @@ Python
 
 ```bash
 python calculator.py
+```
+
+## Example Output
+
+```text
+=== Calculator ===
+
+Gib die erste Zahl ein: 10
+Wähle (+ - * /): *
+Gib die zweite Zahl ein: 5
+
+Ergebnis: 50
+```
+
+## Author
+
+Amirabbas Hmd
