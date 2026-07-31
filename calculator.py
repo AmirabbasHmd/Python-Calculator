@@ -1,4 +1,4 @@
-print("=== Calculator ===")
+print("=== Python Calculator ===")
 
 zahl1 = float(input("Gib die erste Zahl ein: "))
 operator = input("Wähle (+ - * /): ")
