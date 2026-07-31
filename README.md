@@ -12,3 +12,12 @@ Ein einfacher Taschenrechner mit Python.
 ## Language
 
 Python
+
+## How to Run
+
+1. Install Python from python.org
+2. Clone this repository
+3. Run the program:
+
+```bash
+python calculator.py
